@@ -6,6 +6,7 @@
 venv/
 env/
 ENV/
+.env
 
 # Python cache
 __pycache__/
@@ -22,3 +23,5 @@ __pycache__/
 # OS specific files
 .DS_Store
 Thumbs.db
+
+serviceAccountKey.json
